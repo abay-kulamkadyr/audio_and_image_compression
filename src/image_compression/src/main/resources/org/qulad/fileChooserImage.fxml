@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="1100.0" prefWidth="1600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.qulad.ControllerFileImage">
+    <stylesheets>
+        <URL value="@stylesheet.css" />
+    </stylesheets>
+   <children>
+      <Button fx:id="bmpDialog" layoutX="697.0" layoutY="512.0" mnemonicParsing="false" onAction="#bmpDialogEvent" prefHeight="77.0" prefWidth="207.0" text="Select a bmp file" />
+      <Button fx:id="exitProgram" layoutX="761.0" layoutY="24.0" mnemonicParsing="false" onAction="#exitEvent" text="Exit program" />
+   </children>
+</AnchorPane>

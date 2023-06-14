@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minWidth="0.0" prefHeight="1100.0" prefWidth="1600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.qulad.ControllerFileAudio">
+   <children>
+      <Button fx:id="chooseFile" layoutX="697.0" layoutY="512.0" mnemonicParsing="false" onAction="#openFileDialog" prefHeight="77.0" prefWidth="207.0" text="Choose a wav file" />
+      <Button fx:id="exitProgram" layoutX="737.0" layoutY="14.0" mnemonicParsing="false" onAction="#exitEvent" text="Exit program" />
+   </children>
+   <stylesheets>
+      <URL value="@stylesheet.css" />
+   </stylesheets>
+</AnchorPane>
