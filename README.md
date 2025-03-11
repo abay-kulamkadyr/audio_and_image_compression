@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <img src="/images/landscape.png" alt="Audio and Image Compression" width="400" hieght="300">
-  <img src="/images/canyon.jpg" alt="Audio and Image Compression" width="400" height="300">
+  <img src="/images/canyon.jpg" alt="Audio and Image Compression" width="400" >
   <br>
   Audio and Image Compression
   <br>
