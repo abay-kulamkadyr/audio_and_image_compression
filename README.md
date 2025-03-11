@@ -1,9 +1,7 @@
-## Audio and Image Compression
-
 <h1 align="center">
   <br>
-  <img src="/images/landscape.png" alt="Audio and Image Compression" width="200">
-  <img src="/images/snail.png" alt="Audio and Image Compression" width="200">
+  <img src="/images/landscape.png" alt="Audio and Image Compression" width="400">
+  <img src="/images/snail.png" alt="Audio and Image Compression" width="400">
   <br>
   Audio and Image Compression
   <br>
