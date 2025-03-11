@@ -37,7 +37,7 @@
 
 ## How to use
 
-To clone and run both applications, you will need [Git](https://git-scm.com), [Maven] (https://maven.apache.org/install.html), and [Java](https://www.java.com/en/download) installed on your computer.
+To clone and run both applications, you will need [Git](https://git-scm.com), [Maven](https://maven.apache.org/install.html), and [Java](https://www.java.com/en/download) installed on your computer.
 
 ```bash
 # Clone this repository
