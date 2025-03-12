@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="/resources/landscape.png" alt="Audio and Image Compression" width="400" hieght="300">
+  <img src="/resources/landscape.png" alt="Audio and Image Compression" width="400">
   <img src="/resources/canyon.jpg" alt="Audio and Image Compression" width="400" >
   <br>
   Audio and Image Compression
@@ -14,7 +14,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#technologies">Technologies</a> •
   <a href="#organization">Organization</a> •
-  <a href="#how-to-use">How To Use</a> 
+  <a href="#how-to-use">How To Use</a>
 </p>
 
 
@@ -26,9 +26,9 @@
 ## Key Features
 
 * UI .bmp and .wav selectors
-* Display compression ratios of .wav files in a window 
+* Display compression ratios of .wav files in a window
 * Display .bmp files in a window
- 
+
 ## Technologies
 
 * Maven
